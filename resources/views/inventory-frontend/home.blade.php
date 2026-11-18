@@ -1,0 +1,1 @@
+@include('inventory-frontend.index')

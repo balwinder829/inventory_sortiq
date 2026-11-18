@@ -1,0 +1,4 @@
+[25-Apr-2026 03:42:29 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/bsasofts/public_html/inventory/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home2/bsasofts/public_html/inventory/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/bsasofts/public_html/inventory/public/index.php on line 13
